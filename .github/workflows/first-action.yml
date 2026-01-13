@@ -1,0 +1,10 @@
+name: Test Workflow
+on: workflow_dispatch
+jobs:
+  first-batch-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Greet
+        run: echo "Hello World"
+      - name: My Name
+        run" echo "Olumide"
