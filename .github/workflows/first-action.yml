@@ -7,4 +7,4 @@ jobs:
       - name: Print Greet
         run: echo "Hello World"
       - name: My Name
-        run" echo "Olumide"
+        run: echo "Olumide"
